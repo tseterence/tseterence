@@ -33,7 +33,9 @@ Want to know more about me? [Check out my portfolio.](https://tseterence.netlify
 
 ## 📊 Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tseterence&theme=gruvbox)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=tseterence&theme=gruvbox)](https://git.io/streak-stats) -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=tseterence&theme=tokyonight)](https://streak-stats.demolab.com?user=tseterence&theme=tokyonight)
 
 #
 
