@@ -12,7 +12,7 @@ Want to know more about me? [Check out my portfolio.](https://tseterence.netlify
 
 ## 🧰 Skills and Tools
 
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<!-- <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -25,7 +25,9 @@ Want to know more about me? [Check out my portfolio.](https://tseterence.netlify
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-<br />
+<br /> -->
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,html,css,tailwind,bootstrap,mongo,nodejs,git,github)](https://skillicons.dev)
 
 #
 
@@ -37,7 +39,7 @@ Want to know more about me? [Check out my portfolio.](https://tseterence.netlify
 
 ## 📬 Get in Touch
 
-I'm currently open to new opportunities or people to share ideas with! Please feel free to contact me.
+I'm currently open to new opportunities or people to share ideas with! Please feel free to reach out to me.
 
 - LinkedIn: <https://www.linkedin.com/in/tseterence/>
 - Personal Website: <https://tseterence.netlify.app/>
