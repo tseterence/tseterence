@@ -2,7 +2,7 @@
 
 **`full-stack developer`**
 
-I'm a full-stack developer with a passion for building things. Although I began my professional career in structural engineering, my passion for technology and its limitless possibilities drove me to make the transition into software.
+I'm a full-stack developer with a passion for building things. Although I began my professional career in structural engineering, my fascination for technology and its limitless possibilities drove me to make the transition into software.
 
 In this repository, you will find a variety of projects that reflect my interests, expertise, and growth as a developer. My journey in the world of programming began with [The Odin Project](https://www.theodinproject.com/). Since then, I've been on an incredible learning adventure, applying my problem-solving abilities and cross-functional collaborative skills to a field that was once completely unfamiliar to me, all the while continuously expanding my knowledge and skills.
 
